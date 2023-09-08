@@ -10,7 +10,7 @@ function App() {
   return (
     <main>
       <a href="#" className="Logo">
-        <img src={Logo} alt="" />
+        <img src={Logo} alt="huddle" />
       </a>
       <div className="Container">
         <div className="Container-ImgBox">
